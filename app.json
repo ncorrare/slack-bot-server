@@ -1,8 +1,8 @@
 {
-	"name": "Slack Bot Server",
-	"description": "A Slack bot server.",
-	"respository": "https://github.com/dblock/slack-bot-server",
-	"keywords": ["slack", "bots"],
+	"name": "PE Slack Bot Server",
+	"description": "A Slack bot server for managing PE tasts.",
+	"respository": "https://github.com/ncorrare/slack-bot-server",
+	"keywords": ["slack", "bots", "puppet", "pe"],
 	"addons": [
 		"mongolab"
 	]
