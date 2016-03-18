@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-ruby '2.2.4'
+ruby '2.1.8'
 
 gem 'slack-ruby-bot', '~> 0.7.0'
 gem 'mongoid', '~> 5.0.0'
